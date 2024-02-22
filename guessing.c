@@ -69,18 +69,4 @@ int main() {
                 printf(boundary);
         }
     }
-
-
-    // if(guess == secretnum) {
-    //     printf("Congrats! You got it right!\n");
-    // } else {
-    //     printf("Unfortunately you got it wrong...\n");
-    //     if(guess < secretnum) {
-    //         printf("The secret number is actually higher.");
-    //     }
-    //     if(guess > secretnum) {
-    //         printf("The secret number is actually lower.");           
-    //     }
-
-    // }
 }
